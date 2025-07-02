@@ -9,7 +9,7 @@ const Footer = () => {
         <a href="https://github.com/votreprofil" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition" aria-label="GitHub"><i className="fa-brands fa-github"></i></a>
         <a href="https://wa.me/0000000000" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition" aria-label="WhatsApp"><i className="fa-brands fa-whatsapp"></i></a>
       </div>
-      <div className="text-sm">&copy; {new Date().getFullYear()} Momo Dieye. Tous droits réservés.</div>
+      <div className="text-sm">&copy; {new Date().getFullYear()} SF. Tous droits réservés.</div>
     </footer>
   );
 };
