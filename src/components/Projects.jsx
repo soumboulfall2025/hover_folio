@@ -5,35 +5,35 @@ import "aos/dist/aos.css";
 const projects = [
   {
     title: "Portfolio Moderne",
-    image: "/src/assets/portfolio.PNG", // Remplacez par vos images
+    image: "/portfolio.PNG", // Remplacez par vos images
     description: "Un portfolio responsive et élégant avec React et Tailwind CSS.",
     demo: "#",
     code: "https://github.com/soumboulfall2025/portofolio_dev.git"
   },
   {
     title: "App de Tâches",
-    image: "/src/assets/todo.avif",
+    image: "/todo.avif",
     description: "Application de gestion de tâches avec React et MongoDB.",
     demo: "#",
     code: "https://github.com/soumboulfall2025/blog.git"
   },
   {
     title: "Ecommerce App",
-    image: "/src/assets/ecommerce.jpeg", // Ajoutez une image correspondante dans assets
+    image: "/ecommerce.jpeg", // Ajoutez une image correspondante dans assets
     description: "Application e-commerce MERN complète avec gestion des produits et paiements.",
     demo: "#",
     code: "https://github.com/soumboulfall2025/sunubio.git"
   },
   {
     title: "Application Météo",
-    image: "/src/assets/meteo.avif", // Ajoutez une image correspondante dans assets
+    image: "/meteo.avif", // Ajoutez une image correspondante dans assets
     description: "Application météo moderne avec React et API météo.",
     demo: "#",
     code: "https://github.com/soumboulfall2025/appliMeteo.git"
   },
   {
     title: "RAP 2 RUE",
-    image: "/src/assets/react.jpeg", // Ajoutez une image correspondante dans assets
+    image: "/react.jpeg", // Ajoutez une image correspondante dans assets
     description: "La plateforme musicale pour les artistes et les fans.",
     demo: "#",
     code: "https://github.com/soumboulfall2025/rap2rue.git"

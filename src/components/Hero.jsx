@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section id="home" className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-b from-gray-900 to-gray-800 text-white pt-24 w-full px-0">
       <img
-        src="/src/assets/profile.jpg" // Remplacez par votre image
+        src="/profile.jpg" // Remplacez par votre image
         alt="Profil Soumboul Fall"
         className="w-40 h-40 rounded-full object-cover border-4 border-cyan-400 shadow-lg mb-6"
       />
